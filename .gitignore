@@ -17,6 +17,9 @@ _mailinglist
 docs/_build/
 __pycache__
 .env_file
+ci-cd-codepipeline.cfn.yml_backup
+aws-auth-patch.yml_Backup
+.gitignore.swp
 
 # Coverage reports
 htmlcov/

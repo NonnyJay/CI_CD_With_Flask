@@ -20,6 +20,7 @@ __pycache__
 ci-cd-codepipeline.cfn.yml_backup
 aws-auth-patch.yml_Backup
 .gitignore.swp
+buildspec.yml_Backup
 
 # Coverage reports
 htmlcov/
